@@ -17,13 +17,12 @@ if(score >90) {
 
 let quantity = 12;
 // Print warning if quantity > 10 {
-if quantity => 10
-    console.log("Warning: Quantity exceeds"){
+if (quantity>=10) {console.log("Warning: Quantity exceeds")
  
     }
 
     let password = "letmein";
-    let input = prompt (Enter password:); {
+    let input = prompt (Enterpassword:); {
      } else
     console.log("Access denied");{
 
